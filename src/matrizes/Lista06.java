@@ -1,3 +1,4 @@
+package matrizes;
 /*
   
  6o) Elaborar um programa, em linguagem Java, capaz de limpar (colocar -1 em todas as

@@ -1,3 +1,4 @@
+package metodos_recursividade;
 import javax.swing.JOptionPane;
 
 /*
@@ -15,7 +16,7 @@ Número Digitado: 4  Resposta: O número 4 está localizado no índice 3 do vetor.
 
 public class Lista25 {
 
-	public static void main(String[] args) {
+	p8ublic static void main(String[] args) {
 		// TODO 
 		//O retorno do vetor tipo float vem todo esquecito
 		//Pedir ajuda para o professor

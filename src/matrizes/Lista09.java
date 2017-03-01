@@ -1,3 +1,4 @@
+package matrizes;
 /*
 
 9) Determinar se uma matriz é identidade (ou unidade), através de um programa em
@@ -10,7 +11,7 @@ da coluna) iguais a 1 (um) e todos os demais elementos iguais a 0 (zero).
 */
 public class Lista09 {
 
-	public static void main(String[] args) {
+	p8ublic static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
