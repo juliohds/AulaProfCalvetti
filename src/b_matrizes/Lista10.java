@@ -1,4 +1,4 @@
-package matrizes;
+package b_matrizes;
 import javax.swing.JOptionPane;
 
 /*

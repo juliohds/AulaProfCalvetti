@@ -1,4 +1,4 @@
-package vetores;
+package a_vetores;
 
 public class Lista03 {
 

@@ -1,4 +1,4 @@
-package metodos_recursividade;
+package e_metodos_recursividade;
 import javax.swing.JOptionPane;
 
 public class Lista22 {

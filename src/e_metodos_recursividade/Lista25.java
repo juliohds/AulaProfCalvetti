@@ -1,4 +1,4 @@
-package metodos_recursividade;
+package e_metodos_recursividade;
 import javax.swing.JOptionPane;
 
 /*
@@ -18,7 +18,7 @@ public class Lista25 {
 
 	p8ublic static void main(String[] args) {
 		// TODO 
-		//O retorno do vetor tipo float vem todo esquecito
+		//O retorno do vetor tipo float vem todo esquesito
 		//Pedir ajuda para o professor
 	
 		float vetor[] = new float[1];

@@ -1,4 +1,4 @@
-package vetores;
+package a_vetores;
 import javax.swing.JOptionPane;
 
 public class Lista01 {

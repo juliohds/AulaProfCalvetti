@@ -1,4 +1,4 @@
-package matrizes;
+package b_matrizes;
 /*
 
 9) Determinar se uma matriz é identidade (ou unidade), através de um programa em

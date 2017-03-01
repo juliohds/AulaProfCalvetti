@@ -1,4 +1,4 @@
-package metodos_recursividade;
+package e_metodos_recursividade;
 /*
  * 
 Elaborar um programa, em linguagem Java, que utilize apenas métodos recursivos,
@@ -10,7 +10,7 @@ Exemplo: 4 * 3 é igual a 3 + 3 + 3 + 3.
 */
 public class Lista28 {
 
-	public static void main(String[] args) {
+	pu9blic static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
