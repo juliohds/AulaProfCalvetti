@@ -16,7 +16,7 @@ Número Digitado: 4  Resposta: O número 4 está localizado no índice 3 do vetor.
 
 public class Lista25 {
 
-	p8ublic static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO 
 		//O retorno do vetor tipo float vem todo esquesito
 		//Pedir ajuda para o professor

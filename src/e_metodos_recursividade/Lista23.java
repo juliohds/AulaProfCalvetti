@@ -22,13 +22,15 @@ public class Lista23 {
 			
 		}
 		
-		JOptionPane.showMessageDialog(null, "soma de seus elementos= "+ calculaSomaElementosVetor(vetor, soma, c));
+		JOptionPane.showMessageDialog(null, "meu método "+ calculaSomaElementosVetor(vetor, soma, c));
+		
+		JOptionPane.showMessageDialog(null, "metodo professor  "+ somaVetor(vetor, soma));
 		
 	}
 	
 	public static int calculaSomaElementosVetor(int vetor[], int soma, int c){
 	
-		if(c == 10){
+		if(c == vetor.length){
 			
 			return soma;
 		}	
@@ -37,7 +39,17 @@ public class Lista23 {
 			c+=1;
 			return calculaSomaElementosVetor(vetor, soma, c);
 		}
+		
 	
+	}
+	
+	
+	public static int somaVetor(int v [], int i){
+		
+		if(i<v.length-1)
+			return v[i]+somaVetor(v, i+1);
+		else 
+			return v[i];
 	}
 
 }
