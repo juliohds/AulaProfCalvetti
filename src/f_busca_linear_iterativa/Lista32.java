@@ -1,4 +1,4 @@
-package f_busca_linear;
+package f_busca_linear_iterativa;
 
 import javax.swing.JOptionPane;
 

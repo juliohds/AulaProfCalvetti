@@ -11,7 +11,7 @@ package d_metodos_com_parametros;
 */
 public class Lista19 {
 
-	public static void main(String[] args) {
+	p8ublic static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
