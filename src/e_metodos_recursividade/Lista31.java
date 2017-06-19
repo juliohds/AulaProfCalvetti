@@ -10,7 +10,7 @@ package e_metodos_recursividade;
 /*
  JulioHDS
 */
-p2ublic class Lista31 {
+public class Lista31 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

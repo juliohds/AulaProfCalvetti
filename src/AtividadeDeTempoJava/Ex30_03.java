@@ -39,7 +39,8 @@ public class Ex30_03 {
 	
 	/*BOLHA
 	int rasc = 0;	
-	vetor = ordenacaoBolha(vetor, rasc);*/
+	vetor = ordenacaoBolha(vetor, rasc);
+	*/
 	
 	/*teste
 	 * for (int i = 0; i < vetor.length; i++) {
@@ -51,9 +52,7 @@ public class Ex30_03 {
 	
 	System.out.println("Tempo Total Mili: "+(System.currentTimeMillis()-tempoInicioM) + " milisegundos");
 	System.out.println("Tempo Total Nano: "+(System.nanoTime()-tempoInicioN) / 1000 + " microsegundos");
-	
-	
-		
+			
 	}
 	
 	

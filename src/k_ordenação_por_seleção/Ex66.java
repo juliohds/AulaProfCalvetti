@@ -53,4 +53,25 @@ public class Ex66 {
 		return v;
 	}
 
+	public static double[] ordenaSelectCrescente(double v[]){
+		int iA, iB, iC;
+		double iT;
+		
+		for (iA = 0; iA < v.length-1; iA++) {
+			
+			iC=iA;
+			iT=v[iA];
+			
+			for (iB=iA+1; iB < v.length; iB++) {
+				
+				if(v[iB] < iT){
+					iC=iB;
+					iT=v[iB];
+				}
+			}
+			v[iC]=v[iA];
+			v[iA]=iT;
+		}
+		return v;
+	}
 }
