@@ -5,8 +5,9 @@ public class Lista21 {
 
 	public static void main(String args[]){
 		
-		int numero = Fatorial(4);
-		JOptionPane.showMessageDialog(null, "4 fatorial é "+ numero);
+		int n = Integer.parseInt(JOptionPane.showInputDialog("Insira o numero para fatorial: "));
+		int numero = Fatorial(n);
+		JOptionPane.showMessageDialog(null, n+" fatorial é "+ numero);
 		
 	
 	System.exit(0);
