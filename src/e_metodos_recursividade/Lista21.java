@@ -7,7 +7,7 @@ public class Lista21 {
 		
 		int n = Integer.parseInt(JOptionPane.showInputDialog("Insira o numero para fatorial: "));
 		int numero = Fatorial(n);
-		JOptionPane.showMessageDialog(null, n+" fatorial é "+ numero);
+		JOptionPane.showMessageDialog(null, n+" fatorial é "+ numero+ "utilizando recursão");
 		
 	
 	System.exit(0);
@@ -17,8 +17,7 @@ public class Lista21 {
 	public static int Fatorial(int in){
 		
 		if(in<=1) return 1;
-		else return in* Fatorial(in-1);
-	
+		else return in* Fatorial(in-1);	
 		
 	}
 	
